@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <NavBar />
       <h2>Food App</h2>
+      <h2>Food App2</h2>
     </div>
   );
 }

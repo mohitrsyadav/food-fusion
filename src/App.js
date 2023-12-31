@@ -4,9 +4,6 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <h2>Food App</h2>
-      <h2>Food App2</h2>
-      <h2>Food App3</h2>
     </div>
   );
 }
